@@ -18,3 +18,6 @@ $ npm install
 ```
 $ npm start
 ```
+
+## REF
+* [Getting Started](https://parceljs.org/getting_started.html)
