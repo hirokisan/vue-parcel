@@ -10,6 +10,6 @@ $ npm -v
 ```
 
 ## RUN
-``
+```
 $ npm start
 ```
