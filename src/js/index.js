@@ -1,6 +1,7 @@
 import '../css/main.css';
 import Icon from '../img/icon.png';
 import Json from '../json/name.json';
+import Yml  from '../yml/name.yml';
 
 function component() {
   let element = document.createElement('div');
@@ -14,6 +15,7 @@ function component() {
   element.appendChild(myIcon);
 
   console.log(Json);
+  console.log(Yml);
 
 
   return element;
