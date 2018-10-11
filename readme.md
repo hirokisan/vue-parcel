@@ -25,6 +25,7 @@ $ npm run prod
 
 ## Notice
 * Automatically install related module if entry point import files
+	* put .postcssrc and 'npm run dev', then automatically install postcss-modules
 
 ## TODO
 
