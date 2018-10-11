@@ -23,6 +23,9 @@ $ npm run dev
 $ npm run prod
 ```
 
+## Notice
+* Automatically install related module if entry point import files
+
 ## TODO
 
 ## REF
