@@ -19,7 +19,8 @@ $ npm install
 
 ## RUN
 ```
-$ npm start
+$ npm run dev
+$ npm run prod
 ```
 
 ## TODO
