@@ -1,5 +1,6 @@
 module.exports = {
   locals: {
-    hello: 'Hello World'
+    title: 'Hello World',
+    h1: 'Parcel is fun'
   }
 }
