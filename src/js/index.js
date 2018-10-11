@@ -1,4 +1,4 @@
-import './main.css';
+import '../css/main.css';
 
 function component() {
   let element = document.createElement('div');
