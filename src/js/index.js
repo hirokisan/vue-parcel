@@ -1,5 +1,6 @@
 import '../css/main.css';
 import Icon from '../img/icon.png';
+import Json from '../json/name.json';
 
 function component() {
   let element = document.createElement('div');
@@ -11,6 +12,8 @@ function component() {
   myIcon.src = Icon;
 
   element.appendChild(myIcon);
+
+  console.log(Json);
 
 
   return element;
