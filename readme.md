@@ -28,6 +28,11 @@ $ npm run prod
 	* put .postcssrc and 'npm run dev', then automatically install postcss-modules
 
 ## TODO
+* [ ] Export and Import, best practice
+* [ ] Use react
+
+## Task
+* [ ] [Transforms](https://parceljs.org/transforms.html)
 
 ## REF
 * [Getting Started](https://parceljs.org/getting_started.html)
