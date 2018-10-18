@@ -1,6 +1,5 @@
 import '../css/main.css';
 import '../css/main.scss';
-import '../js/react.js';
 import Icon from '../img/icon.png';
 import Json from '../json/name.json';
 import Yml  from '../yml/name.yml';
