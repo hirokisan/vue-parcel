@@ -1,4 +1,4 @@
-# sample-parcel
+# vue-parcel
 
 ## ENV
 ```
@@ -26,10 +26,6 @@ $ npm run prod
 ## Notice
 * Automatically install related module if entry point import files
 	* put .postcssrc and 'npm run dev', then automatically install postcss-modules
-
-## TODO
-* [ ] Export and Import, best practice
-* [ ] Use react
 
 ## Task
 * [ ] [Transforms](https://parceljs.org/transforms.html)

@@ -1,5 +1,5 @@
 {
-  "name": "sample-parcel",
+  "name": "vue-parcel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vue/component-compiler-utils": "^2.3.0",
     "parcel-plugin-clean-dist": "0.0.6",
     "postcss-modules": "^1.4.1",
     "pug": "^2.0.3",
-    "sass": "^1.14.1"
+    "sass": "^1.14.1",
+    "vue-template-compiler": "^2.5.17"
   },
   "dependencies": {
     "parcel-bundler": "^1.10.2",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "vue": "^2.5.17",
+    "vue-hot-reload-api": "^2.3.1"
   }
 }
